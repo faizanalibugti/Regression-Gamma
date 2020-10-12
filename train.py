@@ -46,7 +46,7 @@ test_dataset = dataset.drop(train_dataset.index)
 # In[ ]:
 
 
-sns.pairplot(train_dataset[['Yaverage', 'Correct Parameter']], diag_kind='kde')
+#sns.pairplot(train_dataset[['Yaverage', 'Correct Parameter']], diag_kind='kde')
 
 
 # In[6]:
